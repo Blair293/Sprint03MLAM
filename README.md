@@ -155,7 +155,7 @@ O gráfico possui:
 
 ---
 
-# 🛠️ Tecnologias e Bibliotecas
+# Tecnologias e Bibliotecas
 
 O projeto foi desenvolvido utilizando **Python**.
 
@@ -169,7 +169,7 @@ Principais bibliotecas utilizadas:
 
 ---
 
-# 📚 Conclusão
+# Conclusão
 
 A análise permitiu aplicar conceitos de estatística descritiva, Distribuição Normal, probabilidade e aprendizado de máquina.
 
