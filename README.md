@@ -4,19 +4,18 @@ O projeto utiliza uma base de dados contendo informações numéricas e aplica c
 
 ---
 
-## 👥 Integrantes
+## Integrantes
 
 | Nome                 | RM      |
 | -------------------- | ------- |
-| Nome do integrante 1 | RM00000 |
-| Nome do integrante 2 | RM00000 |
-| Nome do integrante 3 | RM00000 |
-
-> Substitua os nomes e RMs pelos dados dos integrantes do grupo.
+| Arthur Araujo Massarioli | RM 573308 |
+| Daniel Alejandro Pupo Martínez | RM 573075 |
+| Victor Hugo Lavaqui | RM 573838 |
+| Wendel Pedro Rezende | RM 573126 |
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 Realizar análises estatísticas utilizando Python a partir de uma base de dados numérica, considerando:
 
